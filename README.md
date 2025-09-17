@@ -20,10 +20,15 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/mohammed-abdul-samad-ahmed-bb0202289" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-abdul-samad-ahmed-bb0202289" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
+</p>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-abdul-samad-ahmed-bb0202289" target="_blank">
+    <b>Connect with me on LinkedIn</b>
+  </a>
 </p>
 
 <p align="center">
